@@ -3,7 +3,7 @@
 **Lokum**, Avrupa'da yaşayan Türkler için özel olarak tasarlanmış bir **arkadaşlık, sohbet ve flört uygulamasıdır**. Tinder, Bumble veya diğer dating uygulamalarında Türk bulmakta zorlanıyorsan, Lokum tam sana göre.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/getlokum/.github/main/assets/lokum-icon.png" width="120" alt="Lokum Türk Dating App Logo">
+  <img src="https://avatars.githubusercontent.com/u/264537560?s=400" width="120" alt="Lokum Türk Dating App Logo">
 </p>
 
 <p align="center">
