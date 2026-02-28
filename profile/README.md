@@ -8,11 +8,11 @@
 
 <p align="center">
   <a href="https://apps.apple.com/app/id1065101150">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="58" alt="Lokum App Store İndir - Siberalem Alternatifi">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="68" alt="Lokum App Store İndir - Siberalem Alternatifi">
   </a>
   &nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.lokum.dating">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50" alt="Lokum Google Play İndir - Pembepanjur Alternatifi">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="48" alt="Lokum Google Play İndir - Pembepanjur Alternatifi">
   </a>
 </p>
 
@@ -223,11 +223,11 @@ Siberalem ve Pembepanjur'dan sıkıldıysan, Lokum'u hemen indir ve farkı gör!
 
 <p align="center">
   <a href="https://apps.apple.com/app/id1065101150">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="58" alt="Lokum iOS İndir - Siberalem Pembepanjur Alternatifi">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="68" alt="Lokum iOS İndir - Siberalem Pembepanjur Alternatifi">
   </a>
   &nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.lokum.dating">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="55" alt="Lokum Android İndir - Türk Arkadaşlık Uygulaması">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="48" alt="Lokum Android İndir - Türk Arkadaşlık Uygulaması">
   </a>
 </p>
 
