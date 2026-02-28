@@ -23,12 +23,13 @@ Lokum ile **memleketten birini bul**, Türkçe sohbet et ve gerçek bağlantıla
 ## Uygulama Görselleri
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/getlokum/.github/main/assets/profile.png" width="270" alt="Lokum Profil Ekranı - Türk Arkadaşlık Uygulaması">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/getlokum/.github/main/assets/chat.png" width="270" alt="Lokum Sohbet Ekranı - Türkçe Mesajlaşma">
+  <img src="https://raw.githubusercontent.com/getlokum/.github/main/assets/discover.png" width="220" alt="Lokum Keşfet Ekranı - Türk Profilleri Keşfet">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/getlokum/.github/main/assets/chat.png" width="220" alt="Lokum Sohbet Ekranı - Türkçe Mesajlaşma">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/getlokum/.github/main/assets/memleket.png" width="220" alt="Lokum Memleket Seçimi - 81 İl">
 </p>
 
 <p align="center">
-  <em>Profil keşfet · Türkçe sohbet et · Hemşehrini bul</em>
+  <em>Profil keşfet · Türkçe sohbet et · Memleketini paylaş</em>
 </p>
 
 ---
