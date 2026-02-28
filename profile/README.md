@@ -1,31 +1,31 @@
-# Lokum - Türkler İçin Arkadaşlık ve Flört Uygulaması 🍬
+# Lokum - Siberalem ve Pembepanjur Alternatifi | Türk Arkadaşlık Uygulaması 🍬
 
-**Lokum**, Avrupa'da yaşayan Türkler için özel olarak tasarlanmış bir **arkadaşlık, sohbet ve flört uygulamasıdır**. Tinder, Bumble veya diğer dating uygulamalarında Türk bulmakta zorlanıyorsan, Lokum tam sana göre.
+**Lokum**, **Siberalem** ve **Pembepanjur** gibi geleneksel Türk tanışma sitelerinin **mobil ve modern alternatifidir**. Bilgisayar başında oturup profil aramak yerine, Lokum ile telefonundan **sağa kaydır, eşleş ve Türkçe sohbete başla**.
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/264537560?s=400" width="120" alt="Lokum Türk Dating App Logo">
+  <img src="https://avatars.githubusercontent.com/u/264537560?s=400" width="120" alt="Lokum - Siberalem Alternatifi Türk Dating App Logo">
 </p>
 
 <p align="center">
   <a href="https://apps.apple.com/app/id1065101150">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="58" alt="Lokum App Store İndir">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="58" alt="Lokum App Store İndir - Siberalem Alternatifi">
   </a>
   &nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.lokum.dating">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50" alt="Lokum Google Play İndir">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50" alt="Lokum Google Play İndir - Pembepanjur Alternatifi">
   </a>
 </p>
 
-Lokum ile **memleketten birini bul**, Türkçe sohbet et ve gerçek bağlantılar kur. İster Almanya'da, ister Hollanda'da, ister Belçika, Avusturya, Fransa, İngiltere veya İsveç'te ol — Lokum seni **hemşehrinle** buluşturur.
+**Siberalem**'de veya **Pembepanjur**'da Türk arıyorsan ama eski arayüzlerden sıkıldıysan, Lokum tam sana göre. Tinder tarzı modern swipe deneyimi + sadece Türkler + **memleket eşleşmesi** ile hemşehrini bul.
 
 ---
 
 ## Uygulama Görselleri
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/getlokum/.github/main/assets/discover.png" width="220" alt="Lokum Keşfet Ekranı - Türk Profilleri Keşfet">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/getlokum/.github/main/assets/chat.png" width="220" alt="Lokum Sohbet Ekranı - Türkçe Mesajlaşma">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/getlokum/.github/main/assets/memleket.png" width="220" alt="Lokum Memleket Seçimi - 81 İl">
+  <img src="https://raw.githubusercontent.com/getlokum/.github/main/assets/discover.png" width="220" alt="Lokum Keşfet Ekranı - Siberalem Alternatifi Türk Profilleri">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/getlokum/.github/main/assets/chat.png" width="220" alt="Lokum Sohbet Ekranı - Pembepanjur Alternatifi Türkçe Mesajlaşma">&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/getlokum/.github/main/assets/memleket.png" width="220" alt="Lokum Memleket Seçimi - 81 İlden Hemşehrini Bul">
 </p>
 
 <p align="center">
@@ -36,54 +36,95 @@ Lokum ile **memleketten birini bul**, Türkçe sohbet et ve gerçek bağlantıla
 
 ## Lokum Nedir?
 
-Lokum, yurt dışında yaşayan **gurbetçi Türkler** için geliştirilmiş bir **tanışma ve arkadaşlık platformudur**. Normal dating uygulamalarından farklı olarak Lokum **sadece Türklere** açıktır ve Türk kültürüne özel özellikler sunar.
+Lokum, **Siberalem** ve **Pembepanjur** gibi Türk tanışma platformlarının **yeni nesil mobil versiyonudur**. Eski web sitelerindeki karmaşık arayüzler, sahte profiller ve ücretli mesajlaşma sorunlarına son veriyor.
 
-Sohbet etmek, flört etmek veya ciddi bir ilişki aramak — Lokum'da her şey Türkçe ve kültürüne uygun.
+Lokum'da her şey **basit, hızlı ve ücretsiz**: Profil oluştur, sağa kaydır, eşleş, Türkçe sohbet et. Tinder'ın kullanım kolaylığı + sadece Türk topluluğu = Lokum.
 
 | **Özellik** | **Detay** |
 |---|---|
 | **Uygulama Adı** | [Lokum - Türk Dating App](https://lokum.dating/) |
-| **Kategori** | Arkadaşlık, Sohbet, Flört, Dating |
+| **Kategori** | Arkadaşlık, Sohbet, Flört, Dating, Tanışma |
 | **Platform** | iOS (iPhone, iPad) ve Android |
 | **Dil** | Türkçe, İngilizce, Almanca, Hollandaca, Fransızca |
 | **Fiyat** | Ücretsiz (Premium opsiyonel) |
-| **Hedef Kitle** | Avrupa'daki Türkler, gurbetçiler |
+| **Hedef Kitle** | Türkiye ve Avrupa'daki Türkler |
 | **iOS Gereksinim** | iOS 18.0 ve üzeri |
 | **Android Gereksinim** | Android 7.0 ve üzeri |
 
 ---
 
-## Neden Lokum? Tinder'dan Farkı Ne?
+## Siberalem vs Lokum — Fark Ne?
 
-Tinder, Bumble, Hinge gibi uygulamalarda **Türk bulmak** neredeyse imkansız. Bulsan bile kültürünü anlamayan, dilini bilmeyen insanlarla eşleşiyorsun. Lokum bu sorunu çözüyor:
+**Siberalem** yıllardır Türklerin tanışma platformu olarak biliniyor. Ama 2026'da hâlâ **bilgisayar başında profil mi arıyorsun?** Lokum, Siberalem'in sunduğu her şeyi **modern mobil deneyimle** sunuyor:
+
+| | **Siberalem** | **Lokum** |
+|---|---|---|
+| **Platform** | Web sitesi (eski arayüz) | Mobil uygulama (iOS + Android) |
+| **Eşleşme** | Profil arama + mesaj | Sağa kaydır → anında eşleş |
+| **Mesajlaşma** | Ücretli (premium gerekli) | **Ücretsiz** mesajlaşma |
+| **Memleket** | Yok | **81 ilden** memleket eşleşmesi |
+| **Tasarım** | 2000'ler web tasarımı | Modern, Tinder tarzı swipe |
+| **Güvenlik** | Sahte profil sorunu | Profil doğrulama sistemi |
+| **Hedef Kitle** | Genel Türkler | Gurbetçi + Türkiye Türkleri |
+| **Gurbetçiler** | Sınırlı destek | **Almanya, Hollanda, Avrupa** odaklı |
+
+Siberalem'den Lokum'a geçen kullanıcılar en çok **ücretsiz mesajlaşmayı** ve **memleket eşleşmesini** seviyor.
+
+---
+
+## Pembepanjur vs Lokum — Hangisi Daha İyi?
+
+**Pembepanjur** da popüler bir Türk tanışma sitesi. Ama Pembepanjur'un eksiklikleri Lokum'da yok:
+
+| | **Pembepanjur** | **Lokum** |
+|---|---|---|
+| **Platform** | Web ağırlıklı | **Mobil uygulama** (iOS + Android) |
+| **Kayıt** | Uzun form doldurma | Apple/Google ile **2 dakikada** kayıt |
+| **Eşleşme** | Arama ve filtre | **Swipe** → anında eşleşme |
+| **Mesaj** | Premium üyelik gerekli | **Ücretsiz** sohbet |
+| **Memleket** | Şehir bazlı | **81 il** memleket eşleşmesi |
+| **Diaspora** | Türkiye odaklı | **Avrupa + Türkiye** |
+| **Arayüz** | Klasik web sitesi | Tinder benzeri modern UI |
+| **Bildirim** | E-posta | **Anlık push** bildirim |
+
+Pembepanjur'da saatlerce profil okumak yerine, Lokum'da **saniyeler içinde** beğen veya geç. Zaman kaybı yok.
+
+---
+
+## Neden Lokum? Siberalem ve Pembepanjur'dan Farkı
+
+Siberalem, Pembepanjur, Tinder, Bumble — hepsini denedin ama hâlâ doğru kişiyi bulamadın mı? Lokum bu sorunu çözüyor:
 
 ### 🇹🇷 Sadece Türkler
-Lokum'da herkes Türk. Kültürünü yaşayan, dilini konuşan, bayramını kutlayan insanlarla tanış.
+Tinder'da Türk bulmak imkansız, Siberalem'de sahte profiller var. Lokum'da **herkes Türk**, herkes gerçek.
 
 ### 📍 Memleket Eşleşmesi
-Hemşehrini bul, nerede olursa olsun. Kayserili, Trabzonlu, Antepli — memleket filtresiyle aynı şehirden insanları keşfet. 81 ilden seçim yapabilirsin.
+Ne Siberalem'de ne Pembepanjur'da olan özellik: **81 ilden memleket seç**, hemşehrini bul. Kayserili Kayseriliyi, Trabzonlu Trabzonluyu bulsun!
 
-### 💬 Türkçe Sohbet
-Ana dilinde bağlantı kur. Türkçe yazışmanın rahatlığını yaşa. İngilizce veya Almanca zorlamak yok.
+### 💬 Ücretsiz Türkçe Sohbet
+Siberalem ve Pembepanjur'da mesaj atmak için **para öde**. Lokum'da eşleştiğin kişiyle **ücretsiz ve sınırsız** Türkçe sohbet et.
+
+### 📱 Mobil Öncelikli
+Siberalem ve Pembepanjur hâlâ **web sitesi** mantığında çalışıyor. Lokum **tamamen mobil** — telefonundan her yerde kullan.
 
 ### 🌍 Gurbetçi Odaklı
-Almanya, Hollanda, Belçika, Avusturya, Fransa, İngiltere, İsveç ve Amerika'daki Türkler için özel olarak tasarlandı.
+Almanya, Hollanda, Belçika, Avusturya, Fransa, İngiltere, İsveç ve Amerika'daki Türkler için özel olarak tasarlandı. Siberalem ve Pembepanjur'da gurbetçi bulmak zor, Lokum'da **kolay**.
 
 ### 🔒 Güvenli ve Gizli
-Profil doğrulama, şikayet sistemi ve güvenlik kontrolleri ile güvenli bir ortam.
+Profil doğrulama, şikayet sistemi ve güvenlik kontrolleri ile güvenli bir ortam. Siberalem'deki sahte profil sorunu Lokum'da yok.
 
 ---
 
 ## Lokum Özellikleri
 
 ### Keşfet ve Eşleş
-Lokum'un akıllı algoritması sana **yaşına, konumuna, memleket tercihlere ve ilgi alanlarına** göre profiller gösterir. Sağa kaydır beğen, sola kaydır geç — tanıdık ve kolay kullanım.
+Sağa kaydır beğen, sola kaydır geç. Siberalem'deki uzun profil listelerini unutun — Lokum'un akıllı algoritması sana **yaşına, konumuna, memleket tercihlere ve ilgi alanlarına** göre profiller gösterir.
 
 ### Süper Beğeni ve Gül
-Birini gerçekten beğendin mi? **Süper Beğeni** ile öne çık veya **Gül** göndererek ilgini göster.
+Birini gerçekten beğendin mi? **Süper Beğeni** ile öne çık veya **Gül** göndererek ilgini göster. Pembepanjur'daki "göz kırp" özelliğinin çok daha etkili versiyonu.
 
 ### Mesajlaşma
-Eşleştiğin kişilerle anında **Türkçe sohbet** başlat. Yazı, emoji ve daha fazlası.
+Eşleştiğin kişilerle anında **ücretsiz Türkçe sohbet** başlat. Siberalem ve Pembepanjur'dan farklı olarak **mesaj atmak için premium üyelik gerekmez**.
 
 ### Beğeniler Sayfası
 Seni kimlerin beğendiğini gör. **Lokum Plus** ile tüm beğenileri açık şekilde görüntüle.
@@ -92,13 +133,13 @@ Seni kimlerin beğendiğini gör. **Lokum Plus** ile tüm beğenileri açık şe
 Yaş aralığı, mesafe, cinsiyet ve memleket tercihlerine göre arama yap. Tam istediğin kişiyi bul.
 
 ### Bildirimler
-Yeni eşleşme, mesaj veya beğeni geldiğinde anında bildirim al. Hiçbir fırsatı kaçırma.
+Yeni eşleşme, mesaj veya beğeni geldiğinde anında bildirim al. Siberalem'deki e-posta bildirimi yerine **anlık push notification**.
 
 ---
 
 ## Lokum Kimler İçin?
 
-Lokum aşağıdaki kişiler için ideal bir **Türk arkadaşlık uygulamasıdır**:
+Siberalem veya Pembepanjur kullanıp da modern bir alternatif arayan herkes için:
 
 - **Almanya'da yaşayan Türkler** — Berlin, Münih, Hamburg, Köln, Frankfurt, Stuttgart, Düsseldorf, Dortmund
 - **Hollanda'daki Türkler** — Amsterdam, Rotterdam, Den Haag, Utrecht
@@ -110,51 +151,57 @@ Lokum aşağıdaki kişiler için ideal bir **Türk arkadaşlık uygulamasıdır
 - **Amerika'daki Türkler** — New York, Los Angeles, Chicago
 - **Türkiye'deki gençler** — İstanbul, Ankara, İzmir ve tüm 81 il
 
-Kısacası: **Nerede olursan ol, Lokum seni bir Türk ile buluşturur.**
+Kısacası: **Siberalem'den ve Pembepanjur'dan sıkıldıysan, Lokum'u dene.**
 
 ---
 
 ## Nasıl Kullanılır?
 
 ### 1. İndir
-Lokum'u **App Store** veya **Google Play**'den ücretsiz indir.
+Lokum'u **App Store** veya **Google Play**'den ücretsiz indir. Siberalem gibi web sitesine gitmeye gerek yok.
 
 ### 2. Kayıt Ol
-Apple, Google veya telefon numaranla hızlıca kayıt ol. 2 dakikada hazırsın.
+Apple, Google veya telefon numaranla hızlıca kayıt ol. Pembepanjur'daki uzun formları doldurmana gerek yok — **2 dakikada** hazırsın.
 
 ### 3. Profilini Oluştur
 Adın, yaşın, memleketin, yaşadığın şehir, ilgi alanların ve fotoğraflarınla profilini tamamla.
 
 ### 4. Keşfet
-Sana uygun profilleri keşfet. Beğendiğin kişileri sağa kaydır.
+Sana uygun profilleri keşfet. Beğendiğin kişileri sağa kaydır. Siberalem'deki profil listelerinden çok daha hızlı.
 
 ### 5. Eşleş ve Sohbet Et
-Karşılıklı beğeni = eşleşme! Hemen Türkçe sohbete başla.
+Karşılıklı beğeni = eşleşme! Hemen **ücretsiz** Türkçe sohbete başla.
 
 ---
 
 ## Sıkça Sorulan Sorular (SSS)
 
 ### Lokum ücretsiz mi?
-Evet, Lokum'u **ücretsiz indirebilir** ve kullanabilirsin. Günlük 20 beğeni, 1 süper beğeni ve mesajlaşma ücretsizdir. Daha fazlası için opsiyonel **Lokum Plus** aboneliği mevcuttur.
+Evet, Lokum'u **ücretsiz indirebilir** ve kullanabilirsin. Günlük 20 beğeni, 1 süper beğeni ve mesajlaşma ücretsizdir. Siberalem ve Pembepanjur'dan farklı olarak **mesaj atmak için ödeme yapman gerekmez**. Daha fazlası için opsiyonel **Lokum Plus** aboneliği mevcuttur.
+
+### Siberalem mi Lokum mu?
+Siberalem web tabanlı eski bir tanışma sitesidir. Lokum ise **mobil öncelikli**, modern bir dating uygulamasıdır. Siberalem'de profil aramak yerine Lokum'da **sağa kaydır ve eşleş**. Üstelik Lokum'da mesajlaşma ücretsiz, memleket eşleşmesi var ve gurbetçilere özel.
+
+### Pembepanjur mu Lokum mu?
+Pembepanjur klasik bir Türk tanışma sitesidir. Lokum ise Tinder tarzı modern bir swipe deneyimi sunar. Pembepanjur'da saatlerce profil okumak yerine, Lokum'da **saniyeler içinde** eşleş ve sohbete başla.
 
 ### Lokum güvenli mi?
-Evet. Lokum, **profil doğrulama**, şikayet ve engelleme sistemi ile güvenli bir ortam sağlar. Tüm veriler şifrelenerek korunur.
+Evet. Lokum, **profil doğrulama**, şikayet ve engelleme sistemi ile güvenli bir ortam sağlar. Siberalem'deki sahte profil sorunları Lokum'da minimuma indirilmiştir.
 
 ### Lokum sadece Türkler için mi?
-Evet, Lokum **Türk kültürüne ve topluluğuna** özel olarak tasarlanmıştır. Türk olan veya Türk kültürüne bağlı olan herkes katılabilir.
+Evet, Lokum **Türk kültürüne ve topluluğuna** özel olarak tasarlanmıştır. Siberalem ve Pembepanjur gibi Türk odaklıdır ama **çok daha modern** bir deneyim sunar.
 
 ### Hangi ülkelerde kullanılabilir?
-Lokum dünya genelinde kullanılabilir ancak özellikle **Almanya, Hollanda, Belçika, Avusturya, Fransa, İngiltere, İsveç, Amerika ve Türkiye**'deki Türk topluluğuna odaklanmaktadır.
+Lokum dünya genelinde kullanılabilir. **Almanya, Hollanda, Belçika, Avusturya, Fransa, İngiltere, İsveç, Amerika ve Türkiye**'deki Türk topluluğuna odaklanmaktadır.
 
 ### Tinder'dan farkı ne?
-Tinder genel bir dating uygulamasıdır. Lokum ise **sadece Türklere** açıktır ve **memleket eşleşmesi, Türkçe arayüz** ve kültürel uyum gibi özellikler sunar. Tinder'da Türk aramak yerine Lokum'da direkt Türklerle tanış.
+Tinder genel bir dating uygulamasıdır, Türk bulmak neredeyse imkansız. Lokum ise **sadece Türklere** açıktır ve **memleket eşleşmesi, Türkçe arayüz** ve kültürel uyum gibi özellikler sunar.
 
 ### Ciddi ilişki mi flört mü?
-İkisi de! Lokum'da **ciddi ilişki arayan** da var, **sohbet ve arkadaşlık arayan** da. Profilinde ne aradığını belirtebilirsin.
+İkisi de! Lokum'da **ciddi ilişki arayan** da var, **sohbet ve arkadaşlık arayan** da. Siberalem'deki evlilik odağı veya Tinder'daki flört odağı yerine, Lokum'da **ne istersen onu bul**.
 
 ### Memleket eşleşmesi ne demek?
-Türkiye'deki **81 ilden** memleket seçebilirsin. Lokum, seninle aynı memleketli insanları öne çıkarır. Kayserili Kayseriyi, Trabzonlu Trabzonluyu bulsun!
+Türkiye'deki **81 ilden** memleket seçebilirsin. Lokum, seninle aynı memleketli insanları öne çıkarır. Bu özellik ne Siberalem'de ne Pembepanjur'da var — **sadece Lokum'da**.
 
 ---
 
@@ -172,15 +219,15 @@ Daha fazla özellik isteyenler için **Lokum Plus** aboneliği:
 
 ## İndir
 
-Lokum'u hemen indir ve Avrupa'daki Türk topluluğuyla tanışmaya başla!
+Siberalem ve Pembepanjur'dan sıkıldıysan, Lokum'u hemen indir ve farkı gör!
 
 <p align="center">
   <a href="https://apps.apple.com/app/id1065101150">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="58" alt="Lokum iOS İndir App Store Türk Dating">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="58" alt="Lokum iOS İndir - Siberalem Pembepanjur Alternatifi">
   </a>
   &nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.lokum.dating">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="55" alt="Lokum Android İndir Google Play Türk Arkadaşlık">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="55" alt="Lokum Android İndir - Türk Arkadaşlık Uygulaması">
   </a>
 </p>
 
@@ -193,10 +240,10 @@ Lokum'u hemen indir ve Avrupa'daki Türk topluluğuyla tanışmaya başla!
 
 ## Anahtar Kelimeler
 
-`türk dating app` · `türk arkadaşlık uygulaması` · `türk sohbet uygulaması` · `türk flört uygulaması` · `gurbetçi arkadaşlık` · `türk tanışma uygulaması` · `tinder türk` · `tinder alternatifi türk` · `almanya türk arkadaşlık` · `hollanda türk tanışma` · `avrupa türk dating` · `lokum app` · `lokum dating` · `türkler için dating` · `memleket eşleşmesi` · `türk bekar` · `türk evlilik` · `gurbetçi flört` · `türk kız arkadaş` · `türk erkek arkadaş`
+`siberalem` · `siberalem alternatifi` · `pembepanjur` · `pembepanjur alternatifi` · `türk dating app` · `türk arkadaşlık uygulaması` · `türk sohbet uygulaması` · `türk flört uygulaması` · `türk tanışma sitesi` · `gurbetçi arkadaşlık` · `tinder türk` · `tinder alternatifi türk` · `almanya türk arkadaşlık` · `hollanda türk tanışma` · `avrupa türk dating` · `lokum app` · `lokum dating` · `türkler için dating` · `memleket eşleşmesi` · `türk bekar` · `türk evlilik` · `gurbetçi flört` · `siberalem mobil` · `pembepanjur mobil` · `ücretsiz türk dating` · `türk kız arkadaş` · `türk erkek arkadaş`
 
 ---
 
 <p align="center">
-  <sub>Lokum — Gurbetçi Türklerin buluşma noktası 🍬</sub>
+  <sub>Lokum — Siberalem ve Pembepanjur'un modern alternatifi. Gurbetçi Türklerin buluşma noktası 🍬</sub>
 </p>
