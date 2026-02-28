@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/lokum/id0000000000">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50" alt="Lokum App Store İndir">
+  <a href="https://apps.apple.com/app/id1065101150">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="58" alt="Lokum App Store İndir">
   </a>
   &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.getlokum.app">
+  <a href="https://play.google.com/store/apps/details?id=com.lokum.dating">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50" alt="Lokum Google Play İndir">
   </a>
 </p>
@@ -41,7 +41,7 @@ Sohbet etmek, flört etmek veya ciddi bir ilişki aramak — Lokum'da her şey T
 
 | **Özellik** | **Detay** |
 |---|---|
-| **Uygulama Adı** | [Lokum - Türk Dating App](https://getlokum.com) |
+| **Uygulama Adı** | [Lokum - Türk Dating App](https://lokum.dating/) |
 | **Kategori** | Arkadaşlık, Sohbet, Flört, Dating |
 | **Platform** | iOS (iPhone, iPad) ve Android |
 | **Dil** | Türkçe, İngilizce, Almanca, Hollandaca, Fransızca |
@@ -174,19 +174,18 @@ Daha fazla özellik isteyenler için **Lokum Plus** aboneliği:
 Lokum'u hemen indir ve Avrupa'daki Türk topluluğuyla tanışmaya başla!
 
 <p align="center">
-  <a href="https://apps.apple.com/app/lokum/id0000000000">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="55" alt="Lokum iOS İndir App Store Türk Dating">
+  <a href="https://apps.apple.com/app/id1065101150">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="58" alt="Lokum iOS İndir App Store Türk Dating">
   </a>
   &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.getlokum.app">
+  <a href="https://play.google.com/store/apps/details?id=com.lokum.dating">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="55" alt="Lokum Android İndir Google Play Türk Arkadaşlık">
   </a>
 </p>
 
 <p align="center">
-  <strong>🌐 Web:</strong> <a href="https://getlokum.com">getlokum.com</a> ·
-  <strong>📸 Instagram:</strong> <a href="https://instagram.com/getlokum">@getlokum</a> ·
-  <strong>🎵 TikTok:</strong> <a href="https://tiktok.com/@getlokum">@getlokum</a>
+  <strong>🌐 Web:</strong> <a href="https://lokum.dating">lokum.dating</a> ·
+  <strong>🎵 TikTok:</strong> <a href="https://tiktok.com/@lokumdating">@lokumdating</a>
 </p>
 
 ---
